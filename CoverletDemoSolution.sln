@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverletDemoLibraryOne", "CoverletDemoLibraryOne\CoverletDemoLibraryOne.csproj", "{2161660B-DC3C-4683-8884-907806534799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverletDemoLibraryTwo", "CoverletDemoLibraryTwo\CoverletDemoLibraryTwo.csproj", "{C3BAB309-ADAF-48A6-A6B3-6C3D3FD583DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoverletDemoTests", "CoverletDemoTests\CoverletDemoTests.csproj", "{97572BDB-25D6-49D2-82AE-D60596A52D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2161660B-DC3C-4683-8884-907806534799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2161660B-DC3C-4683-8884-907806534799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2161660B-DC3C-4683-8884-907806534799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2161660B-DC3C-4683-8884-907806534799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3BAB309-ADAF-48A6-A6B3-6C3D3FD583DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BAB309-ADAF-48A6-A6B3-6C3D3FD583DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BAB309-ADAF-48A6-A6B3-6C3D3FD583DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BAB309-ADAF-48A6-A6B3-6C3D3FD583DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97572BDB-25D6-49D2-82AE-D60596A52D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97572BDB-25D6-49D2-82AE-D60596A52D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97572BDB-25D6-49D2-82AE-D60596A52D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97572BDB-25D6-49D2-82AE-D60596A52D55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
